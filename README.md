@@ -1,6 +1,7 @@
-# Mouse Jiggler (鼠标防休眠助手)
+# Mouse Jiggler (鼠标防休眠助手) - portable version
 
 这是一个基于 Python 开发的轻量级工具，通过模拟微小的鼠标移动来防止计算机进入休眠、锁屏状态或保持在线状态（如 Teams/Slack/企业微信）。
+此分支为[Mouse Jiggler](https://github.com/Joe-Xuu/mouse-jiggler)的编写版本 - 使用embedded python
 
 适合长时间挂机下载、运行脚本或保持工作软件在线状态的场景。
 
