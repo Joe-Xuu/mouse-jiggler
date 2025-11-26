@@ -10,3 +10,6 @@ __pycache__/
 
 # IDE
 .vscode/
+
+dist_portable/python_env
+get-pip.py
